@@ -1,6 +1,4 @@
 # OTA Data Engineering Test
-
-# OTA Data Engineering Test
   **i.**  Project Overview: 
   
 The project aims to develop a data processing system that parses Parquet files containing taxi transaction data. These Parquet files are periodically appended to a SQL table, ensuring that the dataset is continuously updated with new information. The primary objective is to analyze the daily total transaction amounts for taxi rides and visualize them through a bar graph.
